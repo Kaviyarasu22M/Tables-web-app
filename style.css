@@ -10,6 +10,7 @@ header {
     position: fixed;
     top: 0;
     background-color: blue;
+    color: white;
 }
 
 .cont {
@@ -82,7 +83,9 @@ input {
 footer {
     width: 100%;
     background-color: blue;
+    color: white;
     text-align: center;
     position: fixed;
     bottom: 0;
+    
 }
